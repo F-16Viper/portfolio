@@ -79,6 +79,10 @@ html {
   }
 }
 
+.pg {
+  text-align: justify;
+}
+
 .wave-bg {
   display: block;
   height: 220px;
