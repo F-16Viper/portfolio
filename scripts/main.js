@@ -88,7 +88,5 @@
     )
   }))
 
-  // Add your javascript here
-
 
 })();
